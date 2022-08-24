@@ -1,2 +1,2 @@
 # myPythonFunctions
-Just a bunch of python functions tossed in a module
+Just a bunch of python functions tossed in a module.
